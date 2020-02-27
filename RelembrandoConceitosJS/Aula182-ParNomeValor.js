@@ -7,7 +7,7 @@ document.getElementById("conteudo1").innerHTML="Tudo depende do contexto léxico
 "Exemplos no console.log";
 
 //par nome/valor
-const saudacao = "Contexto léxico 1"; // Contexto léxico 1
+const saudacao = "Contexto CRISTIAN"; // Contexto léxico 1
 
 function exec() {
     const saudacao = "Contexto léxico 2"  //Contexto léxico 2
