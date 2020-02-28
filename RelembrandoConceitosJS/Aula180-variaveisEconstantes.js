@@ -8,9 +8,9 @@ document.getElementById("conteudo").innerHTML="A diferença entre var e let é s
 "<b>Const</b>: Como o nome já diz, algo criado com const será uma constante e em todo o sistema sempre terá o mesmo valor inicial"+
 "<br/> Para visualizar variaves com var, let e const acesse o console.log";
 
-//Jaime
+//Cristian Gay
 
-var num1 = 42;
+var num1 = 25;
 let num2 = 2;
 const num3 = 3;
 
